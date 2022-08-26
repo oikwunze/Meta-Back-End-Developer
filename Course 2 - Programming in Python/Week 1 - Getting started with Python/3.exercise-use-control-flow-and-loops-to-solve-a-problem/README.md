@@ -19,3 +19,28 @@ In this exercise, you will practice control flow with loops to solve problems. Y
 7. Add a print statement outside the for loop to print the value of the count variable.
 
 8. Finally, add a break statement directly after the print statement inside the if condition for finding the number.
+
+## Self-review
+1. Python `for` loops work on any type of sequence data type including strings.
+   - True
+   - False
+   ```
+   Answer: True
+   Explanation: Python for loops work on any type of sequence data type including strings.
+   ```
+
+2. The `enumerate` function is used to provide the index of current iteration of a for loop.
+   - True
+   - False
+   ```
+   Answer: True
+   Explanation: An enumerate function is used to provide the index of current iteration of a for loop.
+   ```
+
+3. A `break` statement can be used to exit out of a for loop based on a certain condition being satisified.
+   - True
+   - False
+   ```
+   Answer: True
+   Explanation: A break statement is used to exit out of a for loop based on a certain condition being satisified. 
+   ```
