@@ -4,8 +4,6 @@
 ## Table of Content
 - Course 1: [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
   * Week 1: Get started with web development
-    1. examine_the_page
-    2. module_quiz
   * Week 2: Introduction to HTML and CSS
   * Week 3: UI Frameworks
   * Week 4: End-of-Course Graded Assessment
@@ -21,11 +19,11 @@
   * Week 3: Working with Git
   * Week 4: Graded Assessment
 - Course 4: [Introduction to Databases for Back-End Development](https://www.coursera.org/learn/intro-to-databases-back-end-development?specialization=meta-back-end-developer)
-  * Week 1: 
-  * Week 2: 
-  * Week 3: 
-  * Week 4: 
-  * Week 5: 
+  * Week 1: Introduction to Databases
+  * Week 2: Create, Read, Update and Delete (CRUD) Operations
+  * Week 3: SQL Operators and sorting and filtering data
+  * Week 4: Database design
+  * Week 5: Graded assessment
 - Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
   * Week 1: 
   * Week 2: 
