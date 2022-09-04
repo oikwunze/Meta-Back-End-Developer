@@ -24,37 +24,37 @@
   * Week 3: SQL Operators and sorting and filtering data
   * Week 4: Database design
   * Week 5: Graded assessment
-- Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)
+- Course 5: [Django Web Framework](https://www.coursera.org/learn/django-web-framework?specialization=meta-back-end-developer)(Release Date Oct 24th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 6: [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)
+- Course 6: [APIs](https://www.coursera.org/learn/apis?specialization=meta-back-end-developer)(Release Date Nov 4th, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 7: [The Full Stack](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)
+- Course 7: [The Full Stack](https://www.coursera.org/learn/the-full-stack?specialization=meta-back-end-developer)(Release Date Dec 12nd, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 8: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer)
+- Course 8: [Cloud Computing](https://www.coursera.org/learn/meta-cloud-computing?specialization=meta-back-end-developer)(Release Date Jan 5th, 2023)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5: 
-- Course 9: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus)
+- Course 9: [Back-End Developer Capstone](https://www.coursera.org/learn/back-end-developer-capstone?specialization=meta-back-end-developer#syllabus)(Release Date Dec 18nd, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
   * Week 4: 
   * Week 5:
-- Course 10: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)
+- Course 10: [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-back-end-developer)(Release Date Dec 12nd, 2022)
   * Week 1: 
   * Week 2: 
   * Week 3: 
